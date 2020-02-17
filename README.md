@@ -10,3 +10,11 @@ The File used are as below:
 - listings.csv : Information of houses in Seattle.
 - reviews.csv : Reviews of houses in Seattle.
 
+### Data Analysis:
+
+You can find the analysis article on the below link:
+
+https://medium.com/@alhanoof.alsharyan/understanding-the-market-of-airbnb-rentals-in-seattle-using-kaggle-data-dafac9fbb753
+
+
+
